@@ -1,3 +1,5 @@
+//For command line git tutorial
+
 print("Hello world")
 print("Tell Your world")
 <<<<<<< HEAD
